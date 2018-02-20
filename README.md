@@ -1,5 +1,7 @@
 ## Supertools
 
+[![Build Status](https://travis-ci.org/sourcepirate/supertools.svg?branch=master)](https://travis-ci.org/sourcepirate/supertools)
+
 Turn you functional tools to super.
 
 
